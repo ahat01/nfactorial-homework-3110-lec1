@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+    padding: 0px 10px;
+    
+}
+.row {
+    display: flex;
+}
+
+.rowword{
+    margin-bottom: 0;
+}
+.row11{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: blue;
+
+}
+.row12{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: red;
+}
+.row21{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: green;
+
+}
+.row22{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+.row31{
+    height: 50px;
+    width: 50px;
+    
+    background-color: red;
+
+}
+.row32{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: green;
+}
+.row33{
+    height: 50px;
+    width: 50px;
+  
+    background-color: blue;
+
+}
+.row41{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: red;
+
+}
+.row42{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+.row51{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: green;
+    justify-content: center;
+}
+.row52{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    margin: 10px auto;
+    justify-content: center;
+}
+.row61{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: red;
+
+}
+.row62{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+.row71{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+
+}
+.row72{
+    height: 50px;
+    width: 50px;
+    flex: 1;
+    background-color: blue;
+}
+.row73{
+    height: 16.6px;
+    width: 100%;
+    margin: 16.6px auto;
+    background-color: green;
+
+}
+.row81{
+    height: 20%;
+    width: 100px;
+    flex: 1;
+    display: flex;
+    background-color: green;
+    justify-content: space-between;
+
+}
+.row8{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    justify-content: space-between;
+}
+.row91{
+    height: 50px;
+    width: 16.6px;
+    flex: 1;
+    display: flex;
+    background-color: yellow;
+    justify-content: space-around;
+
+}
+.row9{
+    height: 50px;
+    width: 15px;
+    background-color: green;
+    justify-content: space-around;
+}
